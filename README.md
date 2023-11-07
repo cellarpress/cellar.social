@@ -20,6 +20,8 @@ To participate in the social network, simply start posting content, following ot
 
 Contributing:
 
+NOSTR PROFILE:npub10d42hpf79c77zsh44esa0klvjh76q2xa6rxhrpd5dqspayc3wkeqnutk6d
+
 cellar.social is an open source project, and we welcome contributions from the community. If you are interested in contributing, please see the contribution guidelines.
 
 License:
