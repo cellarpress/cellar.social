@@ -8,7 +8,7 @@ cellar.social is a NOSTR relay with a built-in webstore for all things wine. It 
 Features:
 
 NOSTR relay: Cellar.social is a fully functional NOSTR relay, which means that you can use it to post and share content with other NOSTR users, follow other users, and join groups.
-Wine webstore: Cellar.social has a built-in webstore where you can purchase wine from your favorite merchants. Payments are made using cryptocurrency, and wine merchants can arrange shipping directly to your address.
+Wine webstore: Cellar.social has a built-in webstore where you can purchase wine from your favorite merchants. Payments are made using Bitcoin, and wine merchants can arrange shipping directly to your address.
 Wine social network: Cellar.social is also a social network for wine lovers. You can post reviews, tasting notes, and other wine-related content to the network, follow other users, and join groups to discuss specific wine topics.
 Getting started:
 
